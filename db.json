@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "Celta Azul 2005 Ar e Direção",
+      "model": "Celta",
+      "brand": "Chevrolet",
+      "year": 2005,
+      "color": "Azul marinho",
+      "km": 106041,
+      "price": 11772.22
+    },
+    {
+      "id": 2,
+      "title": "Zafira 2016 flex",
+      "model": "Zafira",
+      "brand": "Chevrolet",
+      "year": 2016,
+      "color": "Prata",
+      "km": 10935,
+      "price": 51772.22
+    },
+    {
+      "id": 3,
+      "title": "Zafira 2016 flex",
+      "model": "Zafira",
+      "brand": "Chevrolet",
+      "year": 2016,
+      "color": "Prata",
+      "km": 10935,
+      "price": 51772.22
+    }
+  ]
+}
